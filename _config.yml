@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Sangmin Choi"
+title                    : "Hello World"
 title_separator          : "-"
 name                     : "Sangmin Choi"
 description              : "An Embedded Software Enginneer"
@@ -104,7 +104,7 @@ analytics:
 # Site Author
 author:
   name             : "Sangmin Choi"
-  avatar           : "/assets/images/sangmin.png"
+  avatar           : "/assets/images/sangminchoi.jpg"
   bio              : "I want to be a full stack developer.<br><br>Embedded Software Engineer<br>Android Application Developer"
   location         : "Seoul, South Korea"
   email            : "toniht0210@gmail.com"
@@ -126,7 +126,7 @@ author:
       url: "https://github.com/tonight0210"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      # url: "https://instagram.com/"
 
 # Site Footer
 footer:
