@@ -16,7 +16,7 @@ Google 에서 제공하는 Mobile Device 를 위한 open source operationg syste
 [HardKernel](https://www.hardkernel.com/ko/ "하드커널"){: target="_blank" }  
 ODROID = Open + Droid  
 It is a development platform with hardware as well as software.  
-대한민국 제조사 하드커널에서 제작.  
+대한민국 제조사 HardKernel 에서 제작.  
   
 ## ODROID-XU4Q
 ***
@@ -26,7 +26,7 @@ HardKernel 에서 Exynos5422 를 사용하여 제작한 보드.
   
 ## What I want to do
 ***
-- AOSP 환경을 빌드하여 ODROID-XU4Q 보드에서 안드로이드 환경을 구성.
+- AOSP 환경을 빌드하여 ODROID-XU4Q 보드에 안드로이드 환경을 구성.
 - ODROID-XU4Q 보드에서 Android TV 환경으로 동작.
 - ~~Youtube, Netflix 등 동영상 어플리케이션 동작 확인.(Device 인증관련 문제로 동작하지 않을 수도 있음.)~~
 - USB Cable Tuner 를 장착하여, DVB-C 방송을 볼 수 있도록, [TV Input Framework](https://source.android.com/devices/tv "TV Input Framework") porting.
